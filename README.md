@@ -1,3 +1,3 @@
 # newCVS
 
-mon cvs
+mon cv
